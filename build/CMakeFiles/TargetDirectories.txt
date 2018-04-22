@@ -1,0 +1,3 @@
+/home/haocheng/Workspace/data_structure/c-ringbuf/build/CMakeFiles/edit_cache.dir
+/home/haocheng/Workspace/data_structure/c-ringbuf/build/CMakeFiles/rebuild_cache.dir
+/home/haocheng/Workspace/data_structure/c-ringbuf/build/CMakeFiles/ringbuf-test.dir
